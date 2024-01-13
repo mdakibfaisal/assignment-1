@@ -1,0 +1,124 @@
+#new-year{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 0; /* 131.944% */
+margin: 0;
+}
+#happy-new-year{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 0;
+padding: 130px;
+margin: 0;
+}
+.happy{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+#discount{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#holyday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.categories{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#image{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+align-items: center;
+position: center;
+text-align: center;
+}
+.welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+padding: 130px;
+margin-bottom: 0;
+}
+.dolor-sit{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 166.667% */
+margin-top: 0;
+text-align: center;
+
+
+}
+.button{
+    color: #030202;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    position: absolute;   
+
+}
+.party{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+padding: 0;
+}
+.about{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #FFF;
+    margin-top: 100px 0;
+    text-align: center;
+}
+.span{
+    color: #F00;
+}
+.functional{
+    color: #070211;
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+}
